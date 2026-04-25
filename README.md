@@ -1,4 +1,4 @@
-# chaspars.lv
+
 <!DOCTYPE html>
 <html>
 <head>
